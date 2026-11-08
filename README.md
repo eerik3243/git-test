@@ -1,2 +1,2 @@
-# odin-recipes
+# git-test
 Hello Odin
